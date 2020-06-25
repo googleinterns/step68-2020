@@ -46,6 +46,10 @@
   text-align: center;
 }
 
+.jumbotron {
+  background-color: #f4b400;
+}
+
 .requiresauth {
   display: none;
   visibility: hidden;
