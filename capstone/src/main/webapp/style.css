@@ -47,8 +47,14 @@
 }
 
 .jumbotron {
-  background-color: #f4b400;
-  width: 70%;
+  background-color: #0f9d58;
+}
+
+.middle {
+  background-color: #0f9d58;
+  float: left;
+  height: 100%;
+  width: 75%;
 }
 
 .requiresauth {
