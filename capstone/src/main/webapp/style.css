@@ -54,8 +54,26 @@
 /* Main */
 
 body {
-  background-color: #4285F4;
+	background: linear-gradient(-45deg, #4285F4, #f4b400, #db4437, #0f9d58);
+	background-size: 600% 600%;
+	animation: gradient 15s ease infinite;
 }
+
+@keyframes gradient {
+	0% {
+		background-position: 0% 5%;
+	}
+	50% {
+		background-position: 100% 50%;
+	}
+	100% {
+		background-position: 0% 5%;
+	}
+}
+
+/*body {
+  background-color: #4285F4;
+}*/
 
 h1 {
   text-shadow: 4px 3px 4px #4285F4;
