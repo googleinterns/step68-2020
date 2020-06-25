@@ -44,7 +44,7 @@
         <artifactId>appengine-maven-plugin</artifactId>
         <version>2.2.0</version>
         <configuration>
-          <deploy.projectId>jamietucker-step2020-2</deploy.projectId>
+          <deploy.projectId>step-into-the-future-capstone</deploy.projectId>
           <deploy.version>1</deploy.version>
         </configuration>
       </plugin>
