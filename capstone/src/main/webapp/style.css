@@ -89,6 +89,13 @@ h1 {
   text-shadow: 4px 3px 4px #4285F4;
 }
 
+img {
+  border: 15px;
+  border-color: #666;
+  border-style: groove;
+  margin-top: 10px;
+}
+
 nav {
   word-spacing: 4px;
 }
